@@ -20,4 +20,4 @@
 * [NoteBook](TRAVAIL_PERSONNEL_S0.ipynb)
 
 ### QCM
-- évaluation : [conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=063c8c6e72448a20177bbcfe5188a883)
+- [EVAL conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=063c8c6e72448a20177bbcfe5188a883)
