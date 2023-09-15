@@ -20,4 +20,5 @@
 * [NoteBook](TRAVAIL_PERSONNEL_S0.ipynb)
 
 ### QCM
+- [EXO conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=c736b09abc521b31a192a0bcb0b79656)
 - [EVAL conditionnelle et fonction](https://genumsi.inria.fr/qcm.php?h=063c8c6e72448a20177bbcfe5188a883)
