@@ -10,7 +10,7 @@
 
 
 ## QCM d'évaluation
-* [EVAL binaire]: # (https://genumsi.inria.fr/qcm.php?h=62930968543574e4edf03da7cfee5502) 
-* [EVAL hexa]: # (https://genumsi.inria.fr/qcm.php?h=ae3f996b536dcac070c4c72c41837739)
+* [EVAL binaire](https://genumsi.inria.fr/qcm.php?h=62930968543574e4edf03da7cfee5502) 
+* [EVAL hexa](https://genumsi.inria.fr/qcm.php?h=ae3f996b536dcac070c4c72c41837739)
 * [EVAL cpt à 2]: # (https://genumsi.inria.fr/qcm.php?h=315529972afb3fa23051ca4bd55135be)
 * [EVAL flottant]: # (https://genumsi.inria.fr/qcm.php?h=d7a4a3ab02bf21cbed1fe3436281f09c)
