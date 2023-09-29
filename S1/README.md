@@ -1,6 +1,6 @@
 # Représentation des nombres
 * COURS : [nombres entiers en binaire / hexadécimal](COURS_ENTIERS_Binaire_Hexa.ipynb)
-* COURS : [nombres entiers relatifs](COURS_ENTIERS_RELATIFS.ipynb)
+* COURS : [nombres entiers relatifs](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S1/COURS_ENTIERS_RELATIFS.ipynb)
 
 ## QCM pour s'entraîner
 
