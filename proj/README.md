@@ -1,2 +1,2 @@
 # Mini projets
-1. [Binaire flottant](BinaireFlottant.impynb)
+1. [Binaire flottant](BinaireFlottant.ipynb)
