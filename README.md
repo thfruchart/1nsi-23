@@ -1,4 +1,6 @@
 # 1nsi
 * [S0 : programmation avec Python](S0)
 * [S1 : Représentation des nombres](S1)
+* [S2 : Représentation des textes, calcul booléen](S2)
+* [S3 : types construits](S3)
 * [mini projet 1](proj)
