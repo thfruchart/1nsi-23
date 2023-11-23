@@ -1,3 +1,4 @@
+[INFO : demainspecialistecyber](https://www.demainspecialistecyber.fr/les-metiers)
 # 1nsi
 * [S0 : programmation avec Python](S0)
 * [S1 : Représentation des nombres](S1)
