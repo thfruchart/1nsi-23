@@ -8,4 +8,4 @@
 * [EXERCICE 2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO2_Parcours_Tableau.ipynb)
 * [EXERCICE 3](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO3_Parcours_Tableau.ipynb)
 #### dans le cahier
-* [Ex 9 p. 51](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex9p.51.ipynb)
+* [Ex 9 p. 51](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex9p.51.ipynb) => (https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex9p.51_CORR.ipynb)
