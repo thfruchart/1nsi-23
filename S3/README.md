@@ -19,3 +19,5 @@
 * [entraînement list](https://genumsi.inria.fr/qcm.php?h=bb1228ec37442a326e9c5682b62fe8a6)
 * [entraînement dict](https://genumsi.inria.fr/qcm.php?h=cbb959459c8a953f46ea79e0c939647e)
 * [EVAL LIST-TUPLE-DICT](https://genumsi.inria.fr/qcm.php?h=e79034e09e84584ff2d87685cb6039c1)
+* [entraînement TABLEAUX par COMPRÉHENSION](https://genumsi.inria.fr/qcm.php?h=72855d4b21676fc34e72eba77997eaed)
+* [EVAL tableaux par compréhension](https://genumsi.inria.fr/qcm.php?h=f436467f9e3a729e24b4b6d86d6e8b9b)
