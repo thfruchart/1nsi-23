@@ -13,3 +13,9 @@
  
 ### TP photocopié
 * [correction exos 1.2.3.4 (début)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/TP-CORR1.2.3.4A.ipynb)
+
+### QCM
+* [entraînement tuple](https://genumsi.inria.fr/qcm.php?h=ff02d184a03dc4e6c2378c41eff8f5f7)
+* [entraînement list](https://genumsi.inria.fr/qcm.php?h=bb1228ec37442a326e9c5682b62fe8a6)
+* [entraînement dict](https://genumsi.inria.fr/qcm.php?h=cbb959459c8a953f46ea79e0c939647e)
+* [EVAL LIST-TUPLE-DICT](https://genumsi.inria.fr/qcm.php?h=e79034e09e84584ff2d87685cb6039c1)
