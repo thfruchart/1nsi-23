@@ -12,7 +12,7 @@
 * [Ex 12 et 13 p. 52-53](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex12-13p.25-53.ipynb)  => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Exo12-13CORR.ipynb)
  
 ### TP photocopié
-* [correction exos 1.2.3.4 (début)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/TP-CORR1.2.3.4A.ipynb.ipynb)
+* [correction exos 1.2.3.4 (début)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/TP-CORR_1-5.ipynb)
 
 ### QCM
 * [entraînement tuple](https://genumsi.inria.fr/qcm.php?h=ff02d184a03dc4e6c2378c41eff8f5f7)
