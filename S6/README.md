@@ -1,7 +1,7 @@
 # Architecture et systèmes d'exploitation
 
 ## Architecture de Von Neumann
-* [Calculatrice en ligne avec accumulateur](https://www.calculateur.com/)
+* [Calculatrice en ligne avec accumulateur](https://www.calculatrice.com/math/en-ligne.html)
 * [simulateur en ligne](https://www.peterhigginson.co.uk/AQA/)
   * exécuter l'exemple : `add` => modifier le programme pour additionner **trois** nombres saisis par l'utilisateur (on essaiera d'utiliser le moins de registres possibles)
   * exécuter l'exemples : `max`=> repérer le rôle du registre **STATUS** lorsqu'on exécute une instruction CMP (comparaison).
