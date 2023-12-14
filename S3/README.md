@@ -6,7 +6,7 @@
 * [COURS](Parcours_type_construit.ipynb)
 * [EXERCICE 1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO1_Parcours_Tableau.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO1_CORR.ipynb)
 * [EXERCICE 2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO2_Parcours_Tableau.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO2_CORR.ipynb)
-* [EXERCICE 3](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO3_Parcours_Tableau.ipynb)
+* [EXERCICE 3](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO3_Parcours_Tableau.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/EXO3_CORR.ipynb)
 #### dans le cahier
 * [Ex 9 p. 51](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex9p.51.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex9p.51_CORR.ipynb)
 * [Ex 12 et 13 p. 52-53](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Ex12-13p.25-53.ipynb)  => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S3/Exo12-13CORR.ipynb)
