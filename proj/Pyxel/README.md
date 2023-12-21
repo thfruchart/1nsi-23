@@ -106,4 +106,11 @@ pyxel.run(update, draw)
 ```
 
 ## Animer le "serpent"
+1. La commande `pop` est une méthode qui supprime le dernier élément d'une liste et renvoie sa valeur.
+   >>> t = [10,20,30]
+   >>> t.pop()
+   30
+   >>> t
+   [10,20]
+3. 
 ## Contrôler le déplacement du "serpent"
