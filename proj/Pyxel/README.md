@@ -5,7 +5,7 @@
 
 ## Exemple 1
 1. Copier le code ci-dessous, puis l'exécuter : quel est le rôle de la commande `pyxel.rect` 
-2. Décommenter la ligne 22 puis exécuter le programme : repérer le rôle de chaque paramètre de  `pyxel.rect`
+2. Décommenter la ligne 23 puis exécuter le programme : repérer le rôle de chaque paramètre de  `pyxel.rect`
 3. Décommenter les lignes 8 à 14 puis exécuter le programme : quel est le rôle de la fonction `update`?
 ```python
 import pyxel
@@ -26,6 +26,7 @@ def update():
 
 def draw():
     pyxel.cls(0)
+    pyxel.text(100,100,'Hello',3)
     #global couleur
     #couleur = randint(1,14)
     pyxel.rect(coord[0], coord[1], 20, 20, couleur)
