@@ -106,11 +106,58 @@ pyxel.run(update, draw)
 ```
 
 ## Animer le "serpent"
-1. La commande `pop` est une méthode qui supprime le dernier élément d'une liste et renvoie sa valeur.
+La commande `pop` est une méthode qui supprime le dernier élément d'une liste et renvoie sa valeur.
+```
    >>> t = [10,20,30]
    >>> t.pop()
    30
    >>> t
    [10,20]
-3. 
+```
+1. Tester la commande pop dans l'interpéteur python
+2. Exécuter le code ci-dessous
+   1. quel est le rôle de la constante DELAI ?
+   2. modifier le code pour éviter de 'rallonger' le serpent à chaque déplacement (on pourra utiliser la commande pop)
+```python
+import pyxel
+
+DELAI = 10
+LARG = 128
+HAUT = 128
+CASE = 8
+
+pyxel.init(LARG, HAUT)
+pyxel.load("monfichier.pyxres")
+
+serpent = [(10,1),(11,1),(12,1)]
+
+
+def update():
+    global direction
+    if pyxel.frame_count % DELAI == 0 :
+        #coordonnée du premier élément du serpent
+        x,y = serpent[0]
+        #coordonnées du déplacement
+        u,v = -1,0
+        #nouvelles coordonnées
+        tete = (x+u, y+v)
+        #ajout en tete du serpent
+        serpent.insert(0,tete)
+    return
+
+def draw():
+    pyxel.cls(0)
+    for i in range(len(serpent)):
+        element = serpent[i]
+        if i == 0:
+            couleur = 9
+        else :
+            couleur = 11
+        x, y = element
+        pyxel.rect(x*CASE, y*CASE, CASE, CASE, couleur)
+
+    
+pyxel.run(update, draw)
+```
+
 ## Contrôler le déplacement du "serpent"
