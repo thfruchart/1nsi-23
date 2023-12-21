@@ -34,3 +34,34 @@ def draw():
 pyxel.run(update, draw)
 
 ```
+## Exemple 2
+1. Copier le code ci-dessous, et le sauvegarder sur le lecteur Z: dans un répertoire dont vous choisirez le nom
+2. Télécharger le fichier `monfichier.pyxres` et le sauvegarder dans le même répertoire que ci-dessus
+3. Exécuter le code, puis le modifier afin de comprendre le rôle des paramètres de la commande `pyxrel.blt`
+```python
+import pyxel
+
+pyxel.init(160, 120)
+pyxel.load("monfichier.pyxres")
+
+coord = [10,10]
+
+def update():
+    if pyxel.btn(pyxel.KEY_Q):
+        pyxel.quit()
+    if pyxel.btn(pyxel.KEY_DOWN):
+        coord[1] = (1+coord[1]) % 120
+    if pyxel.btn(pyxel.KEY_RIGHT):
+        coord[0] = (1+coord[0]) % 160
+    return
+
+def draw():
+    pyxel.cls(0)
+    x_img,y_img,w_img,h_img = 8,0,8,8
+    pyxel.blt(10, 2,0,x_img,y_img,w_img,h_img)
+#     x_img,y_img,w_img,h_img = 8,8,8,-8
+#     pyxel.blt(coord[0], coord[1],0,x_img,y_img,w_img,h_img)
+    
+pyxel.run(update, draw)
+
+```
