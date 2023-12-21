@@ -4,7 +4,9 @@
 
 
 ## Exemple 1
-1. Copier le code suivant, puis l'exécuter : quel est le rôle de la commande `pyxel.rect` et de ses paramètres?
+1. Copier le code suivant, puis l'exécuter : quel est le rôle de la commande `pyxel.rect` 
+2. Décommenter la ligne 22 puis exécuter le programme : repérer le rôle de chaque paramètre de  `pyxel.rect`
+3. Décommenter les lignes 8 à 14 puis exécuter le programme : quel est le rôle de la fonction `update`?
 ```python
 import pyxel
 from random import randint
