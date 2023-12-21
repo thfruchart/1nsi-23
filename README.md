@@ -4,4 +4,5 @@
 * [S1 : Représentation des nombres](S1)
 * [S2 : Représentation des textes, calcul booléen](S2)
 * [S3 : types construits](S3)
+* [S6 : Matériel et Systèmes d'exploitation](S6)
 * [mini projet 1](proj)
