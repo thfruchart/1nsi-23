@@ -161,3 +161,60 @@ pyxel.run(update, draw)
 ```
 
 ## Contrôler le déplacement du "serpent"
+Le code fourni ne fonctionne pas correctement : 
+1. Tester le programme
+2. Modifier le contenu du dictionnaire VECT_DIR avec les valeurs correctes
+
+```python
+import pyxel
+
+DELAI = 10
+LARG = 128
+HAUT = 128
+CASE = 8
+VECT_DIR = {'Haut':(0,0), 'Bas':(0,0), 'Gauche':(-1,0), 'Droite':(0,0)}
+
+pyxel.init(LARG, HAUT)
+pyxel.load("monfichier.pyxres")
+
+serpent = [(10,1),(11,1),(12,1)]
+direction = 'Gauche'
+
+def update():
+    global direction
+    if pyxel.btn(pyxel.KEY_DOWN) :
+        direction = 'Bas'
+    if pyxel.btn(pyxel.KEY_UP) :
+        direction = 'Haut'
+    if pyxel.btn(pyxel.KEY_LEFT) :
+        direction = 'Gauche'
+    if pyxel.btn(pyxel.KEY_RIGHT) :
+        direction = 'Droite'
+    if pyxel.frame_count % DELAI == 0 :
+        #coordonnée du premier élément du serpent
+        x,y = serpent[0]
+        #coordonnées du déplacement
+        u,v = VECT_DIR[direction]
+        #nouvelles coordonnées
+        tete = (x+u, y+v)
+        #ajout en tete du serpent
+        serpent.insert(0,tete)
+        serpent.pop()
+    return
+
+def draw():
+    pyxel.cls(0)
+    for i in range(len(serpent)):
+        element = serpent[i]
+        if i == 0:
+            couleur = 9
+        else :
+            couleur = 11
+        x, y = element
+        pyxel.rect(x*CASE, y*CASE, CASE, CASE, couleur)
+
+    
+pyxel.run(update, draw)
+
+
+```
