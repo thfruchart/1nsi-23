@@ -35,9 +35,12 @@ pyxel.run(update, draw)
 
 ```
 ## Exemple 2
-1. Copier le code ci-dessous, et le sauvegarder sur le lecteur Z: dans un répertoire dont vous choisirez le nom
-2. Télécharger le fichier `monfichier.pyxres` et le sauvegarder dans le même répertoire que ci-dessus
-3. Exécuter le code, puis le modifier afin de comprendre le rôle des paramètres de la commande `pyxrel.blt`
+1. Copier le code ci-dessous (`exemple2.py`), et le sauvegarder sur le lecteur Z: dans un répertoire dont vous choisirez le nom
+2. Télécharger le fichier `monfichier.pyxres` et le sauvegarder dans le même répertoire que le code `exemple2.py`
+3. Pour visualiser le contenu de ce fichier ressource, il faut
+   1. ouvrir une console, depuis Thonny : Outil/Ouvrir la console du système
+   2. exécuter dans la console la commande : `pyxel edit monfichier.pyxres`
+5. Exécuter le code, puis le modifier afin de comprendre le rôle des paramètres de la commande `pyxrel.blt`
 ```python
 import pyxel
 
