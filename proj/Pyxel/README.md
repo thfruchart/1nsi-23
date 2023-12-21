@@ -68,3 +68,42 @@ def draw():
 pyxel.run(update, draw)
 
 ```
+# Un jeu de Snake
+On donne ci-dessous quelques codes permettant de démarrer un jeu de Snake.
+Pour chaque fichier, quelques consignes / conseils sont fournis.
+## Afficher le "serpent" en mode rectangle
+1. Quel est le rôle des constantes LARG, HAUT et CASE ?
+2. A quoi correspondent les coordonnées de la liste `serpent`?
+```python
+import pyxel
+
+DELAI = 5
+LARG = 128
+HAUT = 128
+CASE = 8
+
+pyxel.init(LARG, HAUT)
+pyxel.load("monfichier.pyxres")
+
+serpent = [(10,1),(11,1),(12,1)]
+
+def update():
+    return
+
+def draw():
+    pyxel.cls(0)
+    for i in range(len(serpent)):
+        element = serpent[i]
+        if i == 0:
+            couleur = 9
+        else :
+            couleur = 11
+        x, y = element
+        pyxel.rect(x*CASE, y*CASE, CASE, CASE, couleur)
+
+    
+pyxel.run(update, draw)
+```
+
+## Animer le "serpent"
+## Contrôler le déplacement du "serpent"
