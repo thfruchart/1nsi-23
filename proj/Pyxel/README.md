@@ -218,3 +218,17 @@ pyxel.run(update, draw)
 
 
 ```
+## Travail à faire
+Pour compléter le jeu : 
+1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
+   * on peut utiliser `pyxel.quit()` pour mettre fin au jeu
+   * une autre possibilité est de créer un booléen `gameover` pour mettre fin à la partie, en contrôlant l'affichage de fin de partie, ce qui permet de créer un menu du type "voulez-vous rejouer?"... 
+2. créer une pomme, que le serpent pourra "manger"
+  * lors de la création, la pomme est 'en dehors' du serpent
+  * si la tête du serpent est au même lieu que la pomme, le serpent "mange" la pomme : celle-ci disparaît, et le serpent grandit d'une unité.
+  * un nouvelle pomme est générée à un autre endroit (en dehors du serpent)
+3. créer une variable score :
+  * chaque fois que le serpent mange la pomme, le score augmente de 1.
+  * le serpent ne doit pas se "manger" lui-même, sinon la partie est perdue : ajouter cette contrainte au jeu.
+  * prévoir un affichage du score, pendant la partie et en fin de partie
+  * prévoir la possibilité de rejouer
