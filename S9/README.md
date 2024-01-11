@@ -15,5 +15,5 @@
 
 
 ### QCM
-* [entraînement](https://genumsi.inria.fr/qcm.php?h=087eb74a9ee2ca0627241fbbeada2147)  => [réponses](https://genumsi.inria.fr/qcm-corrige.php?cle=MzAzOzQ5NzsxMjk2OzEyOTc7MTk4OzIwNDszMDc=)
+* [S9-entraînement](https://genumsi.inria.fr/qcm.php?h=41dc9c916a1e460cfbc82357899f8aa0)
 * [S9-EVAL](https://genumsi.inria.fr/qcm.php?h=305260e2a9a168a97990ca53fb7b083c)
