@@ -1,5 +1,5 @@
 # Algorithmique
-* [Activité : boucles imbriquées](https://github.com/thfruchart/1nsi/blob/main/S9/Activit%C3%A9_Boucles_imbriqu%C3%A9es.ipynb)
+* [Activité : boucles imbriquées](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/Activit%C3%A9_Boucles_imbriqu%C3%A9es.ipynb)
 ### pour les curieux
 * [Epreuve pratique de Terminale : exemple de sujet](https://github.com/thfruchart/1nsi/blob/main/S9/SujetEpreuvePratique1.ipynb)
 
