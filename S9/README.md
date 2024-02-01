@@ -11,6 +11,7 @@
 
 * [Activité 6 p.148 : Tri par insertion](https://www.cahier-nsi.fr/tri_par_insertion/)
   * voir aussi [ce lien](https://interstices.info/les-algorithmes-de-tri/)
+* [Notebook : chronométrer le tri par sélection](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S9/Chrono_Tri_Insertion.ipynb) 
 * [COURS : complexité du tri par sélection](https://github.com/thfruchart/1nsi/blob/main/S9/COURS_Complex_TRI_insertion.ipynb)
 
 
