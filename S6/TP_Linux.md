@@ -45,7 +45,7 @@
    *  Toto peut-il écrire dans l'éditeur ? 
 
 ### Questions : 
-1. Elsa peut-elle copier le fichier `/home/max/documents/fichier.max` vers `home/max/copie_fichier.max` ?
+1. Elsa peut-elle copier le fichier `/home/max/documents/fichier.max` vers `/home/max/copie_fichier.max` ?
 2. Elsa peut-elle copier le fichier `/home/max/documents/fichier.max` vers `/home/elsa/copie_fichier.max` ?
 3. Toto peut-il copier le fichier `/home/max/documents/fichier.max` vers `/home/max/copie_fichier.max` ?
 4. Toto peut-il copier le fichier `/home/max/documents/fichier.max` vers `/home/toto/copie_fichier.max` ?
