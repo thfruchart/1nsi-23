@@ -6,4 +6,5 @@
 * [S3 : types construits](S3)
 * [S6 : Matériel et Systèmes d'exploitation](S6)
 * [S9 : Algorithmique](S9)
+* [S10 : Algorithmique avancée](S10)
 * [mini projet 1](proj)
