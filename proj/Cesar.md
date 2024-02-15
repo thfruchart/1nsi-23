@@ -2,8 +2,8 @@
 * Pour ce mini-projet, le travail s'effectue de préférence par binôme.
 * Chaque binôme rend un seul `fichier.py` avec le code produit.
 * Chaque élève rend un **document d'explication individuel**, sous forme numérique, qui doit: 
-   *  préciser ce que l'élève a personnellent réalisé dans le projet  (voir le paragraphe **2.** ci-dessous)
-   *  préciser comment la réalisation du projet a été découpée en plusieurs fonctions.
+   *  préciser ce que l'élève a personnellent réalisé dans le projet, surtout dans la partie n°**2.** ci-dessous
+   *  préciser comment la réalisation du projet a été découpée éventuellement en plusieurs fonctions.
    *  donner la spécification des fonctions, c'est à dire : 
       *  le rôle et le type des paramètres 
       *  le rôle et le type de la valeur renvoyée
