@@ -1,4 +1,4 @@
-# Mini-projet 3
+# Mini-projet : "Craquer César"
 * Pour ce mini-projet, le travail s'effectue de préférence par binôme.
 * Chaque binôme rend un seul `fichier.py` avec le code produit.
 * Chaque élève rend un **document d'explication individuel**, sous forme numérique, qui doit: 
