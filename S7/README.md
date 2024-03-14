@@ -12,7 +12,7 @@
 * tester les commandes suivantes : 
   * `ifconfig`
   * `nslookup` (par exemple vers `ac-orleans-tours.fr`)
-  * `ping` (choisir une adresse ip pour le test)
+  * `ping` (choisir une adresse ip pour le test, par exemple `8.8.8.8`)
   * `traceroute` (choisir une adresse ip pour le test)
 
 ## IHM : capteurs et actionneurs
