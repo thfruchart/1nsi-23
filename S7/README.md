@@ -11,7 +11,7 @@
 * [Emulateur Linux](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/buildroot-x86.cfg)
 * tester les commandes suivantes : 
   * `ifconfig`
-  * `nslookup` (par exemple vers `stpaulbb.org`)
+  * `nslookup` (par exemple vers `ac-orleans-tours.fr`)
   * `ping` (choisir une adresse ip pour le test)
   * `traceroute` (choisir une adresse ip pour le test)
 
