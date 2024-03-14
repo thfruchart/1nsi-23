@@ -7,6 +7,7 @@
 
 ## TP
 * [Consignes](NSI_Reseaux_Filius.pdf)
+* [Synthèse](Synthèse-complétée.pdf)
 ## Commandes sous linux
 * [Emulateur Linux](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/buildroot-x86.cfg)
 * tester les commandes suivantes : 
