@@ -6,6 +6,6 @@
   * [**COURS**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/COURS_Recherche_Dichotomique.ipynb)
 * **Algorithmes gloutons**
   * [Problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/SacADos_CORR.ipynb)
-  * [Problème du rendu monnaie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/Rendu_Monnaie.ipynb)
+  * [Problème du rendu monnaie](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/Rendu_Monnaie.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S10/RenduMonnaie_CORR.ipynb)
   
 * KNN...
