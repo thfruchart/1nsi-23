@@ -2,6 +2,10 @@
 1. [Binaire flottant](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/proj/BinaireFlottant.ipynb)
 2. [Découverte de pyxel](Pyxel)
 3. [Craquer César](Cesar.md)
+
+### Nuit du Code
+* [Premiers pas...](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/)
+* [Documentation](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-cr%C3%A9er-une-ressource)
    
 ### conseils pour expliquer votre code
 Il s'agit d'expliquer la **raison** pour laquelle telle ou telle instruction réaliser le traitement qu'on attend.
