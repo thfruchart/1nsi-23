@@ -1,5 +1,5 @@
 ### Nuit du Code
-* [Premiers pas...](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/)
+* [Premiers pas...](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/) + [pyxel-studio](https://www.pyxelstudio.net/)
 * [Documentation](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-cr%C3%A9er-une-ressource)
 
 
