@@ -1,5 +1,5 @@
 ### Nuit du Code
-* [Tutoriel NdC 1ère](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/3-tutoriel-premiere/) + [doc](https://github.com/thfruchart/tnsi/blob/main/proj/documentation-pyxel.pdf) + [pyxelstudio](https://www.pyxelstudio.net/)
+* [Tutoriel NdC 1ère](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/) + [doc](https://github.com/thfruchart/tnsi/blob/main/proj/documentation-pyxel.pdf) + [pyxelstudio](https://www.pyxelstudio.net/)
 * [Documentation](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-cr%C3%A9er-une-ressource)
 
 
