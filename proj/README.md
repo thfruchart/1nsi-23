@@ -1,5 +1,6 @@
 ### Nuit du Code
 * [Tutoriel NdC 1ère](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/) + [doc](https://github.com/thfruchart/tnsi/blob/main/proj/documentation-pyxel.pdf) + [pyxelstudio](https://www.pyxelstudio.net/)
+  * Suivre les étapes du tuto, et modifier le code pour ajouter un deuxième vaisseau, commandé par les touches du pavé numérique
 * [Référence pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-cr%C3%A9er-une-ressource)
 
 
