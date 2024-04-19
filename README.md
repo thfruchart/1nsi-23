@@ -4,6 +4,7 @@
 * [S1 : Représentation des nombres](S1)
 * [S2 : Représentation des textes, calcul booléen](S2)
 * [S3 : types construits](S3)
+* [S4 : données en tables](S4)
 * [S6 : Matériel et Systèmes d'exploitation](S6)
 * [S7 : Réseau](S7)
 * [S9 : Algorithmique](S9)
