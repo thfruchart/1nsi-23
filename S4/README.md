@@ -9,8 +9,9 @@
    * [capitales.csv](capitales.csv)
    * [interface .csv => points sur une carte](https://www.cahier-nsi.fr/livecsvmap2/)
    * [NOTEBOOK pour capitales.csv](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ExoCSV.ipynb&aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/capitales.csv)
- 
+#### Sélection et Tri
  * [Sélection et Tri (notebook)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Selection_Tri_Table.ipynb)
+#### Fusion
  * [Ex 8 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo8p.67.ipynb)
  * [Ex 9 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo9p.67.ipynb) => [](EXO9p.67_CORRECTION.ipynb)
 ### mini-projet
