@@ -8,7 +8,7 @@
    * [exercice_1.py](exercice_1.py) 
    * [capitales.csv](capitales.csv)
    * [interface .csv => points sur une carte](https://www.cahier-nsi.fr/livecsvmap2/)
-   * [NOTEBOOK pour capitales.csv](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ExoCSV.ipynb&aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/capitales.csv) => [CORRECTION](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ExoCSV.ipynb&aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/CAPITALES.ipynb)
+   * [NOTEBOOK pour capitales.csv](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/ExoCSV.ipynb&aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/capitales.csv) => [CORRECTION](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/CAPITALES.ipynb&aux=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/capitales.csv)
 #### Sélection et Tri
  * [Sélection et Tri (notebook)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Selection_Tri_Table.ipynb)
 #### Fusion
