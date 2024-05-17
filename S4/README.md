@@ -14,5 +14,5 @@
 #### Fusion
  * [Ex 8 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo8p.67.ipynb)
  * [Ex 9 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo9p.67.ipynb) => [](EXO9p.67_CORRECTION.ipynb)
-### mini-projet
+### TP
 * [prénoms](../proj/prenoms.ipynb)
