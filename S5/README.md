@@ -7,7 +7,7 @@
 
 ## Modèle Client-Serveur
 
-![Schéma](http://moodle.iutv.univ-paris13.fr/img/cm-update/js-cm-1-cm-update-523.png)
+![Schéma](http://www.phpdebutant.org/system/images/intro/schema2.gif)
 
 * Exemple (act5): 
   * [Page reçue par le client](https://www.cahier-nsi.fr/pendules/)
