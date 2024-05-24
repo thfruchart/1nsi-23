@@ -17,4 +17,5 @@
 ### TP
 * [prénoms](../proj/prenoms.ipynb)
 ### QCM
+* [entraînement (12 questions)](https://genumsi.inria.fr/qcm.php?h=33314488b10ad5420aad25f99119f66a)
 * [évaluation (+3/-1) 10 questions](https://genumsi.inria.fr/qcm.php?h=12d38f819b19f12e75ebd1dd1a90d673)
