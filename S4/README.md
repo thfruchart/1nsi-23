@@ -16,3 +16,5 @@
  * [Ex 9 p. 67](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/S4/Exo9p.67.ipynb) => [](EXO9p.67_CORRECTION.ipynb)
 ### TP
 * [prénoms](../proj/prenoms.ipynb)
+### QCM
+* [évaluation (+3/-1) 10 questions](https://genumsi.inria.fr/qcm.php?h=12d38f819b19f12e75ebd1dd1a90d673)
